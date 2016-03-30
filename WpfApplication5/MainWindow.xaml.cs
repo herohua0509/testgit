@@ -40,7 +40,7 @@ namespace WpfApplication5
 
                 IApplicationContext ctx = ContextRegistry.GetContext();
                 IObjectFactory factory = (IObjectFactory)ctx;
-                IModel m2 = (IModel)factory.GetObject("TestModel311111");
+                IModel m2 = (IModel)factory.GetObject("TestModel311111333");
                
                 m2.Show();
             }
