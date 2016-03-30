@@ -10,7 +10,7 @@ namespace WpfApplication5.Factory
     {
         public static IModel CreateInstance<T>() where T:IModel
         {
-            return Activator.CreateInstance<T>(); 
+            return Activator.CreateInstance<T>();
         }
     }
 }
