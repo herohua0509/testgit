@@ -28,7 +28,8 @@ namespace WpfApplication5
         {
             InitializeComponent();
             Loaded += MainWindow_Loaded;
-            string teest2 = "tset";
+            string test = "test";
+
         }
 
         private void MainWindow_Loaded(object sender, RoutedEventArgs e)
