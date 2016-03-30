@@ -48,3 +48,6 @@ E:\GitTest\WpfApplication5\WpfApplication5\obj\Debug\MainWindow.baml
 E:\GitTest\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.g.resources
 E:\GitTest\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.Properties.Resources.resources
 E:\GitTest\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.csproj.GenerateResource.Cache
+C:\Users\Administrator\Source\Repos\testgit\WpfApplication5\bin\Debug\WpfApplication5.exe.config
+C:\Users\Administrator\Source\Repos\testgit\WpfApplication5\obj\Debug\WpfApplication5.exe
+C:\Users\Administrator\Source\Repos\testgit\WpfApplication5\obj\Debug\WpfApplication5.pdb
